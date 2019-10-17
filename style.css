@@ -75,7 +75,9 @@ body {
 
 .cenovka {
     text-align: right;
-    padding: 30px;
+    position: absolute;
+    top: 470px;
+    left: 470px;
 }
 
 .cena {
